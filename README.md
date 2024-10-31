@@ -77,10 +77,11 @@ Na tela principal, o usuário tem a opção de trocar de tela para a tela 2.
 
 Na tela secundária, o usuário tem a opção de trocar de tela para a tela 2.
 
-
 <img src="https://github.com/user-attachments/assets/77778665-3b61-47e0-85ca-2a159313c134" width="260" height="500"/>
 
+# 🧰 APK do APP 
 
+<a href="https://github.com/LaurenAzevedo/Troca-de-telas/blob/main/trocatelasimples.apk"> Download APK </a>
 
  
 # 📄 Licença
